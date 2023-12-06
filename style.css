@@ -6,6 +6,7 @@
 .card{
     border: 1px solid black;
     padding: 10px;
+    color: blue;
     width:300px;
     margin-bottom: 20px;
 }
