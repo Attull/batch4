@@ -8,7 +8,7 @@ function fetchSecondApi(){
         .then((res) =>{
             return res.json()
         }).then((data) =>{
-            // createCard(data)
+            createCard(data)
             createOptions(data)
             console.log(data)
         })
