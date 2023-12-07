@@ -4,10 +4,11 @@
     flex-wrap: wrap;
 }
 .card{
-    border: 1px solid black;
+    border: 1px solid red;
     padding: 10px;
     color: blue;
     width:300px;
     border-radius: 5px;
     margin-bottom: 20px;
+
 }
